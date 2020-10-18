@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "name": "FCI GODOWN Samastipur,Bihar 848504",
+      "lat": 25.635463,
+      "long": 85.593623,
+      "capacity": 3636,
+      "current_capacity": 0,
+      "index": 0
+    },
+    {
+      "name": "FCI godown Chak Jamal, Bihar 844506",
+      "lat": 25.65976,
+      "long": 85.449724,
+      "capacity": 987,
+      "current_capacity": 0,
+      "index": 1
+    },
+    {
+      "name": "Eidgah Rd Mohiuddinpur, Bihar 841226",
+      "lat": 26.21572,
+      "long": 84.344353,
+      "capacity": 13307,
+      "current_capacity": 0,
+      "index": 2
+    },
+    {
+      "name": "FCI BLOCK 4 Digha, Patna, Bihar 800011",
+      "lat": 25.64929,
+      "long": 85.092511,
+      "capacity": 5500,
+      "current_capacity": 0,
+      "index": 3
+    },
+    {
+      "name": "Raghunathpur - Darauli Rd Raghunath Pur, Bihar 841504",
+      "lat": 26.001498,
+      "long": 84.272163,
+      "capacity": 3636,
+      "current_capacity": 0,
+      "index": 4
+    },
+    {
+      "name": "FCI Warehouse Obra - Rafiganj Rd, Obra, Bihar",
+      "lat": 24.889299,
+      "long": 84.387217,
+      "capacity": 9735,
+      "current_capacity": 0,
+      "index": 5
+    },
+    {
+      "name": "FCI WareHouse Aliganj, Banka, Bihar 813102",
+      "lat": 24.878178,
+      "long": 86.926397,
+      "capacity": 6643,
+      "current_capacity": 0,
+      "index": 1
+    },
+    {
+      "name": "Vikramshila Colony Tulasinagar Colony, Bhagalpur, Bihar",
+      "lat": 25.251988,
+      "long": 87.009354,
+      "capacity": 6643,
+      "current_capacity": 0,
+      "index": 7
+    },
+    {
+      "name": "Alakhnath Rd Barh, Bihar 803213",
+      "lat": 25.468827,
+      "long": 85.699187,
+      "capacity": 8021,
+      "current_capacity": 0,
+      "index": 8
+    },
+    {
+      "name": "FCI WAREHOUSE Milki Anaith, Arrah, Bihar 802302",
+      "lat": 25.546991,
+      "long": 84.656,
+      "capacity": 7360,
+      "current_capacity": 0,
+      "index": 9
+    },
+    {
+      "name": "FCI Bibhutipur Warehouse (भारतीय खाद्य निगम) बिभूतिपुरगोदाम",
+      "lat": 25.731834,
+      "long": 85.974074,
+      "capacity": 2173,
+      "current_capacity": 0,
+      "index": 10
+    },
+    {
+      "name": "Naugachhia Bihar 853204",
+      "lat": 25.388879,
+      "long": 87.110536,
+      "capacity": 5500,
+      "current_capacity": 0,
+      "index": 11
+    },
+    {
+      "name": "Bahadurpur Patna, Bihar",
+      "lat": 25.601927,
+      "long": 85.174663,
+      "capacity": 13560,
+      "current_capacity": 0,
+      "index": 12
+    },
+    {
+      "name": "FCI Godown Azamnagar Alampur, Bihar 855113",
+      "lat": 25.553471,
+      "long": 87.831038,
+      "capacity": 5500,
+      "current_capacity": 0,
+      "index": 13
+    },
+    {
+      "name": "Chandwara Muzaffarpur, Bihar",
+      "lat": 26.124675,
+      "long": 85.402648,
+      "capacity": 15500,
+      "current_capacity": 0,
+      "index": 14
+    },
+    {
+      "name": "Patel Nagar Jahanabad, Bihar 804408",
+      "lat": 25.214737,
+      "long": 84.981178,
+      "capacity": 9500,
+      "current_capacity": 0,
+      "index": 15
+    },
+    {
+      "name": "FCI Godown, Chakia Raniganj Mohhala, Chakia, Bihar ",
+      "lat": 26.41201,
+      "long": 85.043957,
+      "capacity": 8500,
+      "current_capacity": 0,
+      "index": 16
+    },
+    {
+      "name": "Kaimur, Bihar 821105",
+      "lat": 25.174643,
+      "long": 83.489948,
+      "capacity": 11525,
+      "current_capacity": 0,
+      "index": 17
+    },
+    {
+      "name": "Kathalbari,Darbhanga, Bihar",
+      "lat": 26.154453,
+      "long": 85.907288,
+      "capacity": 11450,
+      "current_capacity": 0,
+      "index": 18
+    },
+    {
+      "name": "Bakhri Bihar 848201",
+      "lat": 25.609116,
+      "long": 86.270991,
+      "capacity": 22641,
+      "current_capacity": 0,
+      "index": 19
+    },
+    {
+      "name": "Sharif Colony Sitamarhi, Bihar",
+      "lat": 26.586416,
+      "long": 85.511066,
+      "capacity": 9545,
+      "current_capacity": 0,
+      "index": 20
+    },
+    {
+      "name": "IFC GODWON Swiss Park, Tollygunge, Kolkata, West Bengal",
+      "lat": 22.504639,
+      "long": 88.352264,
+      "capacity": 11450,
+      "current_capacity": 0,
+      "index": 21
+    }
+  ]
+}
+
+
+{
+  "proxy": [
+    [
+      [
+        25,
+        85
+      ]
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}
+  fetch("https://api.jsonbin.io/b/5f8b362f7243cd7e82506bed", {
+        method:'PUT',
+        
+        headers : {
+            'Content-Type': 'application/json',
+        
+            'secret-key': '$2b$10$6RnpIxVoqp5pqzoPeZFFWOS1aLbrGK2JmVFImbP0hKeeSCU3/vgr2',
+            'versioning': 'false'
+        },
+        body: JSON.stringify({"proxy": FinalPercentage})
+        
+    }).then(res=>res.json()).then(res2=>console.log("Data Added in Final Percentage"));
+    res.send({info: "Data Added"})
+
+
+
+      fetch("https://api.jsonbin.io/b/5f8b362f7243cd7e82506bed", {
+            method:'PUT',
+            
+            headers : {
+                'Content-Type': 'application/json',
+            
+                'secret-key': '$2b$10$6RnpIxVoqp5pqzoPeZFFWOS1aLbrGK2JmVFImbP0hKeeSCU3/vgr2',
+                'versioning': 'false'
+            },
+            body: JSON.stringify(FinalPercentage)
+            
+        }).then(responsee=>responsee.json()).then(responsee2=>console.log("Data Added in Final Percentage"));
+    
+        
+                fetch("https://api.jsonbin.io/b/5f8b362f7243cd7e82506bed",
+        {
+        headers : {
+            'secret-key': '$2b$10$6RnpIxVoqp5pqzoPeZFFWOS1aLbrGK2JmVFImbP0hKeeSCU3/vgr2'
+        
+        } 
+        }
+        ).then(response1=>response1.json()).then(response2=>
+             FinalPercentage = response2.proxy);
+             console.log(FinalPercentage);
